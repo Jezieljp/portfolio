@@ -1,0 +1,57 @@
+FILTRO
+carregar uma ação para imagem>
+janela/ações/3traços seta para baixo/carregar açoes
+======================================================
+clica na ação com imagem com cadiado e da play
+====================================================
+CRIANDO UMA RECORTE PERFEITO DE UMA IMAGEM
+ferramenta de seleção rapida/crie uma copia da imagem/outra imagem e arraste para baixo/alt+ctrl+r/ou menu selecionar/
+redefinir aresta/modo de exibiçao / em camada/pincel/ menu em saida /opção /mascara de camada/depois clique no menu 
+camada e estilos de camada/ ou layer style 
+=========================================================
+
+REMOVE ALGUMA COISA QUE VOCÊ NÃO QUE NA FOTO
+ferramenta de seleção/ botao direito do mouse/preencher/no menu conteudo/ sencivel a conteudo/ ok
+==============================================================
+
+COMO COLOCAR LENTE DE CONTATOS NOS OLHOS
+duas fotos / coloque a outra imagem em cima dos olhos/ e crie uma mascara de corte / e pegue o balde de tinta/ com a cor preta
+e pinte a imagem a sima dos olhos/ferramenta de pincel / cor branca
+==================================================================================
+MUDA COR DE UM OBJETO OU ROUPA
+ferramenta de seleção rapida/ selecione o quer mudar a cor/menu image/ajuste/matiz e saturação/ ou ctrl+u
+===============================================================================
+REMOVENDO FUNDO DE IMAGEM
+menu selecionar/ intervalo de cores/seleciona o fundo com conta gotas
+
+TIRAR CORES DE IMAGENS QUE VEM QUANDO VOCÊ RECORTA ELA DE UM LUGAR
+va na camada com a tecla ctrl apertada /selecionar /modifica / contracão/
+selecionar / inverte / delete
+
+===============================================================================
+CRIAR UMA LINHA EM RETANGULO
+ferramenta de retagulo/preeenchimento em linha/ e escolher a cor do traçado
+==============================================================================
+CORTA UMA LINHA 
+ferramenta de letreiro retagular/ seleciona o quer excluir / delete
+=========================================================================
+COMO MESCLA TODAS AS CAMADAS E ENTRA CAMERA RAW
+CTRL / SIFT/ALT / E / cria uma imagem só com tudo oque fizemos na imagem
+==================================================================================
+ABRIR CAMERA RAW
+CTRL /SHIFT /A
+==================================================================================
+RECORTAR UM FUNDO NO ESTILO DA LETRA
+1- O NOME QUE VOCE QUER/
+2- O FUNDO E ARRASTE PARA BAIXO DO NOME 
+3- CTRL E CLIQUE NA CAMADA DO NOME
+4- MENU SELECIONAR/ MODIFCAR/EXPANSÃO/ 20 PIXEL / CTRL J
+
+
+
+
+
+
+
+
+
