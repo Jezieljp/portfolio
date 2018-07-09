@@ -47,6 +47,12 @@ RECORTAR UM FUNDO NO ESTILO DA LETRA
 3- CTRL E CLIQUE NA CAMADA DO NOME
 4- MENU SELECIONAR/ MODIFCAR/EXPANSÃO/ 20 PIXEL / CTRL J
 
+====================================================================================
+CRIAR SANGRIA PARA IMPRESSAO
+coloque as medidas em cemtimetro ou milimetro por ultimo
+va no menu /imagem/tamanho de tela de pitura/e coloque mas 0,6 milimetros na lagura e altura
+e mas 3 milimetro de securança
+
 
 
 
