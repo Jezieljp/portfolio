@@ -53,6 +53,13 @@ coloque as medidas em cemtimetro ou milimetro por ultimo
 va no menu /imagem/tamanho de tela de pitura/e coloque mas 0,6 milimetros na lagura e altura
 e mas 3 milimetro de securança
 
+===========================================================================================
+CRIAR UM EFEITO EM IMAGEM RECORTE ARREDONDADO 
+
+crie uma mascara de camada na imagem/pegue a ferramenta letreiro eliptico/e crie um circlo na imagem
+BOTAO DIREITO DO MOUSE /transformação livre/ctrol + shift+ i ou inverte seleção/ pegue o pincel com a cor preta e apaga 
+o que vc quer
+
 
 
 
